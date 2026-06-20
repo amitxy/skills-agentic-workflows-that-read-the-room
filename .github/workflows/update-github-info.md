@@ -25,5 +25,5 @@ network:
 
 Read `notes/mona-notes.md` for Mona's voice and site priorities.
 Fetch `https://github.blog/latest/` and `https://github.blog/changelog/` with `web-fetch`.
-Update `site/content/github-info.md` with a short, accurate summary of the latest GitHub Blog and Changelog updates.
+Update `site/content/github-info.md` with a short, accurate summary of the latest GitHub Blog and GitHub Changelog updates.
 Open a pull request for Mona to review using `safe-outputs.create-pull-request`.
